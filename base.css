@@ -41,49 +41,35 @@ aside {
 	* {
 		float: none;
 	}
-
 	li {
 		margin: 10px;
 	}
-
 	p {
 		margin-left: 10px;
 	}
-
 	h2 {
 		margin-left: 10px;
 	}
-
     #contenedor {
 		width:100%;
 		background: #6c816b;
 		overflow: hidden;
-		
 	}
-
 	nav {
 		background: #c29f41;
-		width: 100%;
-		
-		
+		width: 100%;	
 	}
-   
-	
-
 	a {
 		text-decoration: none;
 		color: #000;
 		margin-top: 5px;
 	}
-
 	section {
 		background: #F1F2C0;
 		width: 100%;
-		border: #000;
 		margin: 0;
 		border: #000 solid 1px;
 	}
-
 	aside {
 		background: #928d73;
 		width: 100%;
